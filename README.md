@@ -1,0 +1,1 @@
+Developed an interactive web-based version of the classic Simon game, showcasing skills in HTML, CSS, and JavaScript. The game features a responsive design, engaging user interface, and smooth animations, allowing players to test their memory and reflexes in a fun and visually appealing way
